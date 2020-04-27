@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.exe.config
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.exe
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\bin\Debug\BlogPostApp.pdb
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.exe
+C:\Users\hphifer\source\repos\BlogPostApp\BlogPostApp\obj\Debug\BlogPostApp.pdb
